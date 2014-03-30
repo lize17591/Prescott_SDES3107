@@ -1,0 +1,13 @@
+size(500, 500);
+smooth();
+noStroke();
+beginShape();
+vertex(50,50);
+vertex(100,50);
+vertex(50,100);
+vertex(30, 55);
+vertex(70, 20);
+curveVertex(70,20);
+vertex(65, 300);
+vertex(300,300);
+endShape(CLOSE);

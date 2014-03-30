@@ -1,0 +1,12 @@
+int x = 100;
+println(x);
+x = 300;
+println(x);
+int y = 100;
+println(y);
+float z = 500.87;
+println(z);
+z = 217.53;
+println(z);
+z = 73/2+100/-5;
+println(z);
